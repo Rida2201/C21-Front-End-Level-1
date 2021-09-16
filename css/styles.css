@@ -2,11 +2,10 @@ h1{color: #009980;
     text-align: center;
     font-size:60px;}
 p{
-
-
+color: green;
+font-size: 30px;
 }
-
 .mijnAfbeelding{
-    width:100px
-    height:100px;
+height: 500px;
+width: 500px;
 }
